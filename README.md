@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Olá! 👋
+### Olá! 👋🏾
 
 
 - 📫 mariarita@riseup.net
