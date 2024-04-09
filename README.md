@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/mariaritacasagrande">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaritacasagrande&show_icons=true&theme=radical&count_private=true&CACHE_SECONDS=21600"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaritacasagrande&radfasf&arasfda&show_icons=true&theme=radical&count_private=true&CACHE_SECONDS=21600"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaritacasagrande&layout=compact&langs_count=6&theme=dark"/>
 </div>
   
