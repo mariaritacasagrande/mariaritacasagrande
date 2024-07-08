@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img align="center" alt="hitzs-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="hitzs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="hitzs-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="hitzs-Parrot" height="30" width="40" src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrot-logo.svg">
+  <img align="center" alt="hitzs-Parrot" height="30" width="40" src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrotsec-logo.png">
  
 </div>
   
