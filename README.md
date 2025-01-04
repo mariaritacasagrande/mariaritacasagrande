@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 </picture> -->
 
 <!--START_SECTION:waka-->
-
+## 📊 My Time
+---
 
 <!--END_SECTION:waka-->
