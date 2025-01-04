@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 📫 mariarita@riseup.net
 
-<START_SECTION:waka>
-<END_SECTION:waka>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📊 My Github Stats
 ---
