@@ -17,7 +17,6 @@ jobs:
           
 ### content
           SHOW_TITLE: true # optional
-          BLOCKS: -> # optional
           IGNORED_LANGUAGES: YAML JSON TOML HTML
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_PROJECTS: false
