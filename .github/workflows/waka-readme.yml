@@ -14,3 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          
+### content
+          SHOW_TITLE: true # optional
+          BLOCKS: -> # optional
+          IGNORED_LANGUAGES: YAML JSON TOML HTML
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_PROJECTS: false
+          SHOW_LOC_CHART: false
