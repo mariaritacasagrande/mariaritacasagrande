@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 - 📫 mariarita@riseup.net
 
+<START_SECTION:waka>
+<END_SECTION:waka>
+
 ## 📊 My Github Stats
 ---
 
@@ -65,8 +68,6 @@ Here are some ideas to get you started:
 </picture> -->
 
 
-## 📊 My Time
----
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+
 
