@@ -16,8 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
 ### content
-          SHOW_TITLE: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML HTML
+          SHOW_LINES_OF_CODE: true
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_PROJECTS: false
           SHOW_LOC_CHART: false
