@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -68,8 +68,6 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 161.5 kB Used in GitHub's Storage 
- > 
-> 🏆 671 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -118,7 +116,7 @@ Linux                    10 hrs 43 mins      ███████████�
 ```
 
 
- Last Updated on 27/02/2025 18:38:17 UTC
+ Last Updated on 28/02/2025 18:38:02 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
