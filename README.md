@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 163.5 kB Used in GitHub's Storage 
+> 📦 164.7 kB Used in GitHub's Storage 
  > 
-> 🏆 675 Contributions in the Year 2025
+> 🏆 680 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -106,17 +106,21 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-PHP                      7 mins              █████████████████████████   100.00 % 
+GDScript3                58 mins             ██████████████░░░░░░░░░░░   56.72 % 
+Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+PHP                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2025 18:44:54 UTC
+ Last Updated on 05/03/2025 18:45:22 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
