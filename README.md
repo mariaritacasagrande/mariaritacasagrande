@@ -71,8 +71,6 @@ Here are some ideas to get you started:
 
 > 📦 164.8 kB Used in GitHub's Storage 
  > 
-> 🏆 687 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -106,19 +104,17 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               14 mins             ████████████████████░░░░░   81.32 % 
-PHP                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/03/2025 18:38:40 UTC
+ Last Updated on 14/03/2025 18:38:01 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
