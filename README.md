@@ -61,6 +61,8 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
@@ -77,8 +79,44 @@ Here are some ideas to get you started:
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 21/05/2025 02:33:44 UTC
+```text
+🌞 Morning                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+🌆 Daytime                515 commits         █████████████░░░░░░░░░░░░   53.15 % 
+🌃 Evening                356 commits         █████████░░░░░░░░░░░░░░░░   36.74 % 
+🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Tuesday                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Wednesday                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Thursday                 215 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Friday                   445 commits         ███████████░░░░░░░░░░░░░░   45.92 % 
+Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Sunday                   80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+PHP                      20 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  20 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  20 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 21/05/2025 02:53:58 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
