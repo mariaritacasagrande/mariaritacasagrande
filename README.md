@@ -28,6 +28,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/mariaritacasagrande">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaritacasagrande&show_icons=true&theme=merko&count_private=true&CACHE_SECONDS=600"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaritacasagrande&layout=compact&langs_count=8&theme=merko&CACHE_SECONDS=600"/>
+
+ ![mariaritacasagrande's Stats](https://github-readme-stats.vercel.app/api?username=mariaritacasagrande&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+ ![mariaritacasagrande's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariaritacasagrande&theme=dracula&hide_border=true)
+ ![mariaritacasagrande's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaritacasagrande&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </div>
   
 <div style="display: inline_block"><br>
