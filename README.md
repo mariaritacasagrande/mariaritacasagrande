@@ -61,7 +61,9 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2017%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -69,20 +71,62 @@ Here are some ideas to get you started:
 
 > 📦 164.9 kB Used in GitHub's Storage 
  > 
-> 🏆 782 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+🌆 Daytime                288 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+🌃 Evening                568 commits         █████████████░░░░░░░░░░░░   53.43 % 
+🌙 Night                  197 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Tuesday                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Wednesday                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Thursday                 218 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Friday                   364 commits         █████████░░░░░░░░░░░░░░░░   34.24 % 
+Saturday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Sunday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: UTC
+
+💬 Programming Languages: 
+PHP                      10 hrs 18 mins      ██████████████████████░░░   88.13 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 41 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+fiap-secretaria          11 hrs 41 mins      █████████████████████████   99.97 % 
+fiap-admin               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Windows                  11 hrs 41 mins      █████████████████████████   100.00 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/mariaritacasagrande/mariaritacasagrande/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 00:51:10 UTC
+ Last Updated on 22/05/2025 01:16:35 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
