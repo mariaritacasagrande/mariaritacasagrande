@@ -21,4 +21,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_PROJECTS: false
           SHOW_LOC_CHART: false
-          LOCALE: pt_BR
+        
