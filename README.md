@@ -61,8 +61,6 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
@@ -71,7 +69,7 @@ Here are some ideas to get you started:
 
 > 📦 164.9 kB Used in GitHub's Storage 
  > 
-> 🏆 780 Contributions in the Year 2025
+> 🏆 782 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,48 +77,12 @@ Here are some ideas to get you started:
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**Timeline**
 
-```text
-🌞 Morning                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-🌆 Daytime                534 commits         █████████████░░░░░░░░░░░░   50.47 % 
-🌃 Evening                403 commits         ██████████░░░░░░░░░░░░░░░   38.09 % 
-🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Tuesday                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Wednesday                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Thursday                 215 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Friday                   445 commits         ███████████░░░░░░░░░░░░░░   42.06 % 
-Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Sunday                   80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-```
+![Lines of Code chart](https://raw.githubusercontent.com/mariaritacasagrande/mariaritacasagrande/main/assets/bar_graph.png)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-PHP                      4 hrs 9 mins        ███████████████████████░░   90.09 % 
-SQL                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2025 00:43:07 UTC
+ Last Updated on 22/05/2025 00:51:10 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
