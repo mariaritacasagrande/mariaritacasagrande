@@ -106,18 +106,17 @@ Sunday                   70 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: UTC
 
 💬 Programming Languages: 
-PHP                      28 mins             ██████████████████░░░░░░░   71.00 % 
-Markdown                 11 mins             ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/05/2025 00:12:44 UTC
+ Last Updated on 31/05/2025 00:12:21 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
