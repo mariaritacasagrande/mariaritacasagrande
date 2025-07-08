@@ -61,6 +61,8 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
@@ -69,16 +71,52 @@ Here are some ideas to get you started:
 
 > 📦 164.9 kB Used in GitHub's Storage 
  > 
-> 🏆 788 Contributions in the Year 2025
+> 🏆 789 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 07/07/2025 03:05:51 UTC
+```text
+🌞 Morning                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+🌆 Daytime                534 commits         █████████████░░░░░░░░░░░░   50.14 % 
+🌃 Evening                410 commits         ██████████░░░░░░░░░░░░░░░   38.50 % 
+🌙 Night                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Tuesday                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Wednesday                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Thursday                 215 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Friday                   445 commits         ██████████░░░░░░░░░░░░░░░   41.78 % 
+Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Sunday                   80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 08/07/2025 00:12:58 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
