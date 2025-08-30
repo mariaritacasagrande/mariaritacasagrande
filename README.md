@@ -61,8 +61,6 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2029%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
@@ -117,7 +115,7 @@ Linux                    1 hr 11 mins        ███████████�
 ```
 
 
- Last Updated on 29/08/2025 00:12:41 UTC
+ Last Updated on 30/08/2025 00:12:01 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
