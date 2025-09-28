@@ -61,8 +61,6 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
@@ -80,7 +78,7 @@ Here are some ideas to get you started:
 > 🔑 23 Private Repositories 
  > 
 
- Last Updated on 27/09/2025 00:11:37 UTC
+ Last Updated on 28/09/2025 00:13:21 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
