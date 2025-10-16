@@ -61,8 +61,6 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2031%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
@@ -116,7 +114,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/10/2025 00:12:48 UTC
+ Last Updated on 16/10/2025 00:12:46 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
