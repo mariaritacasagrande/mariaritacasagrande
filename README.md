@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 > 📦 165.1 kB Used in GitHub's Storage 
  > 
-> 🏆 810 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -106,20 +106,20 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      19 hrs 53 mins      █████████████████░░░░░░░░   66.86 % 
-PHP                      5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-JavaScript               4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+CSS                      21 hrs              ███████████████████░░░░░░   77.84 % 
+PHP                      4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+JavaScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  29 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2025 00:14:38 UTC
+ Last Updated on 01/01/2026 00:15:58 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
