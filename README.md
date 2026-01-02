@@ -61,11 +61,11 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.77%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,20 +106,20 @@ Sunday                   80 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      21 hrs              ███████████████████░░░░░░   77.84 % 
-PHP                      4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-JavaScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+CSS                      16 hrs 32 mins      ███████████████████░░░░░░   74.37 % 
+PHP                      4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/01/2026 00:15:58 UTC
+ Last Updated on 02/01/2026 00:14:00 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
