@@ -61,11 +61,11 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.77%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -118,7 +118,7 @@ Windows                  17 hrs 50 mins      ███████████�
 ```
 
 
- Last Updated on 05/01/2026 00:15:30 UTC
+ Last Updated on 06/01/2026 00:14:26 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
