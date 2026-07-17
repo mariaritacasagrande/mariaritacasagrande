@@ -61,8 +61,6 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.56%20million%20lines%20of%20code-blue?style=flat)
@@ -71,11 +69,11 @@ Here are some ideas to get you started:
 
 > 📦 145.9 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2026
+> 🏆 47 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 28 Private Repositories 
  > 
@@ -120,7 +118,7 @@ Linux                    7 hrs 2 mins        ███████████�
 ```
 
 
- Last Updated on 16/07/2026 01:58:52 UTC
+ Last Updated on 17/07/2026 02:02:42 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
