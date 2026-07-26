@@ -61,6 +61,8 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2033%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.56%20million%20lines%20of%20code-blue?style=flat)
@@ -104,18 +106,17 @@ Sunday                   91 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████░░░░   83.66 % 
-HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/07/2026 02:02:12 UTC
+ Last Updated on 26/07/2026 02:06:43 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
