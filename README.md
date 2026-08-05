@@ -19,16 +19,12 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: mariarita@riseup.net
 - 😄 Pronouns: she/her
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning : C#
 
 
-## 📊 My Github Stats
 ---
 
-<div align="center">
-  <a href="https://github.com/mariaritacasagrande">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariaritacasagrande&show_icons=true&theme=merko&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaritacasagrande&layout=compact&langs_count=8&theme=merko"/>
-</div>
   
 <div style="display: inline_block"><br>
    <img align="center" alt="hitzs-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
