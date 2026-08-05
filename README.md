@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: mariarita@riseup.net
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on : new blog
 - 🌱 I’m currently learning : C#
 
 
