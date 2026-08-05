@@ -32,14 +32,10 @@ Here are some ideas to get you started:
    <img align="center" alt="hitzs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="hitzs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hitzs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="hitzs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="hitzs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="hitzs-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
    <img align="center" alt="hitzs-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="hitzs-godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-plain.svg">
    <img align="center" alt="hitzs-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="hitzs-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="hitzs-postgrees" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="hitzs-fubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="hitzs-fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg">
   <img align="center" alt="hitzs-Parrot" height="30" width="40" src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrotsec-logo.png">
