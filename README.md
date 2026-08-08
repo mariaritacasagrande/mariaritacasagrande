@@ -53,6 +53,10 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2015%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.72%20million%20lines%20of%20code-blue?style=flat)
@@ -96,17 +100,17 @@ Sunday                   91 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 29 mins             ████████░░░░░░░░░░░░░░░░░   33.47 % 
-C#                       23 mins             ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Ruby                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-PHP                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+C#                       23 mins             ███████████░░░░░░░░░░░░░░   44.17 % 
+Ruby                     20 mins             ██████████░░░░░░░░░░░░░░░   38.46 % 
+PHP                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
+Linux                    54 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +120,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/08/2026 02:18:51 UTC
+ Last Updated on 08/08/2026 01:05:32 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
