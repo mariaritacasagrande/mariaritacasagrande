@@ -63,34 +63,34 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 169.2 kB Used in GitHub's Storage 
+> 📦 170.4 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2026
+> 🏆 135 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 61 Public Repositories 
  > 
 > 🔑 32 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-🌆 Daytime                513 commits         ██████████░░░░░░░░░░░░░░░   41.98 % 
-🌃 Evening                564 commits         ████████████░░░░░░░░░░░░░   46.15 % 
-🌙 Night                  70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+🌞 Morning                75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌆 Daytime                513 commits         ██████████░░░░░░░░░░░░░░░   41.91 % 
+🌃 Evening                564 commits         ████████████░░░░░░░░░░░░░   46.08 % 
+🌙 Night                  72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 Tuesday                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Wednesday                226 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Thursday                 258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Friday                   446 commits         █████████░░░░░░░░░░░░░░░░   36.50 % 
-Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Sunday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Wednesday                226 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Thursday                 258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Friday                   448 commits         █████████░░░░░░░░░░░░░░░░   36.60 % 
+Saturday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Sunday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ```
 
 
@@ -100,43 +100,43 @@ Sunday                   91 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-PHP                      3 hrs 4 mins        ████████████████░░░░░░░░░   62.15 % 
-CSS                      1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+PHP                      3 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.15 % 
+HTML                     2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.60 % 
+CSS                      1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+C#                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 34 mins (92.55%)
+⏱ AI Coding Time: 6 hrs 32 mins (83.45%)
 
-✍️ 424 lines written by AI, 509 lines written by hand (45.44% AI-written)
+✍️ 552 lines written by AI, 528 lines written by hand (51.11% AI-written)
 
-🔤 7,291,101 Input Tokens, 21,155 Output Tokens
+🔤 8,959,892 Input Tokens, 22,154 Output Tokens
 
-💵 $22.19 Estimated AI Cost This Week
+💵 $27.21 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 109 AI Prompts
+🧠 4 AI Sessions, 149 AI Prompts
 
-Github-Copilot           448 lines           █████████████████████████   100.00 % 
+Github-Copilot           624 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.44% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
-🔁 Iterative Prompter — average 36 prompts per session
-🔍 Hands-On Reviewer — 55.6% of changed lines were hand-edited
+⚖️ Balanced with AI — 51.11% of written lines came from AI
+📝 Concise Prompter — average 151 characters per prompt
+🔁 Iterative Prompter — average 37 prompts per session
+🚀 High AI Trust — 48.26% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 02:22:26 UTC
+ Last Updated on 05/09/2026 02:23:18 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
