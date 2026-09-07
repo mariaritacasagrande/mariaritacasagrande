@@ -53,9 +53,9 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -100,43 +100,42 @@ Sunday                   91 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     3 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.58 % 
-PHP                      1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-CSS                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-C#                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     3 hrs 29 mins       ██████████████████████░░░   88.55 % 
+C#                       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Image (png)              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 6 mins (82.26%)
+⏱ AI Coding Time: 2 hrs 49 mins (71.36%)
 
-✍️ 305 lines written by AI, 334 lines written by hand (47.73% AI-written)
+✍️ 147 lines written by AI, 44 lines written by hand (76.96% AI-written)
 
-🔤 10,786,112 Input Tokens, 21,037 Output Tokens
+🔤 3,774,957 Input Tokens, 1,446 Output Tokens
 
-💵 $32.67 Estimated AI Cost This Week
+💵 $11.35 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 141 AI Prompts
+🧠 2 AI Sessions, 60 AI Prompts
 
-Github-Copilot           441 lines           █████████████████████████   100.00 % 
+Github-Copilot           273 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.73% of written lines came from AI
-📝 Concise Prompter — average 142 characters per prompt
-🔁 Iterative Prompter — average 47 prompts per session
-🚀 High AI Trust — 48.96% of changed lines were hand-edited
+🤖 AI-Driven — 76.96% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
+🔁 Iterative Prompter — average 30 prompts per session
+🚀 High AI Trust — 21.13% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 02:19:33 UTC
+ Last Updated on 07/09/2026 02:16:09 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
