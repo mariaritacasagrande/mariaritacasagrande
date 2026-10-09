@@ -120,19 +120,7 @@ Linux                    4 hrs 46 mins       ███████████�
 
 ✍️ 1,052 lines written by AI, 42 lines written by hand (96.16% AI-written)
 
-🔤 1,292,583 Input Tokens, 5,183 Output Tokens
 
-💵 $3.96 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 50 AI Prompts
-
-Github-Copilot           1,335 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.16% of written lines came from AI
-📄 Detailed Prompter — average 510 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 3.37% of changed lines were hand-edited
 ```
 
 
