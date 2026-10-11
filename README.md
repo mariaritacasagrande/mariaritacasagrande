@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2049%20mins-blue?style=flat)
 
@@ -100,25 +100,25 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   43.42 % 
-CSS                      1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-PHP                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-TypeScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+C#                       4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.49 % 
+TypeScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+CSS                      2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+PHP                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+HTML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 9 mins (43.78%)
+⏱ AI Coding Time: 3 hrs 9 mins (28.21%)
 
-✍️ 1,052 lines written by AI, 499 lines written by hand (67.83% AI-written)
+✍️ 1,052 lines written by AI, 909 lines written by hand (53.65% AI-written)
 
 🔤 1,292,583 Input Tokens, 5,183 Output Tokens
 
@@ -129,14 +129,14 @@ Linux                    7 hrs 13 mins       ███████████�
 Github-Copilot           1,335 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.83% of written lines came from AI
+⚖️ Balanced with AI — 53.65% of written lines came from AI
 📄 Detailed Prompter — average 510 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 30.87% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 56.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 03:46:32 UTC
+ Last Updated on 11/10/2026 03:19:25 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
