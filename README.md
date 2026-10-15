@@ -100,43 +100,27 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-TypeScript               2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-CSS                      2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-PHP                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-HTML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+C#                       2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.33 % 
+TypeScript               2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
+HTML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+CSS                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 8 mins (32.69%)
-
-✍️ 1,052 lines written by AI, 867 lines written by hand (54.82% AI-written)
-
-🔤 1,290,399 Input Tokens, 4,895 Output Tokens
-
-💵 $3.94 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 48 AI Prompts
-
-Github-Copilot           1,335 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.82% of written lines came from AI
-📄 Detailed Prompter — average 529 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
-🔍 Hands-On Reviewer — 55.93% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/10/2026 03:02:13 UTC
+ Last Updated on 15/10/2026 02:42:07 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
