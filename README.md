@@ -100,17 +100,17 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.33 % 
-TypeScript               2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
-HTML                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-CSS                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript               1 hr 44 mins        ███████████░░░░░░░░░░░░░░   43.56 % 
+C#                       57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+HTML                     48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+CSS                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -120,7 +120,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/10/2026 02:38:19 UTC
+ Last Updated on 17/10/2026 02:30:28 UTC
 <!--END_SECTION:waka-->
   
  <!--  <picture>
