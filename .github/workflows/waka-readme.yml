@@ -2,12 +2,12 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch: # Allows you to manually trigger the workflow
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
@@ -21,4 +21,3 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_PROJECTS: false
           SHOW_LOC_CHART: false
-        
