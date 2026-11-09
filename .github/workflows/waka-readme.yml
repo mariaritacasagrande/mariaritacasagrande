@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
 
       - name: Update WakaTime Stats in README
         uses: anmol098/waka-readme-stats@master
